@@ -255,7 +255,7 @@ img  {
 }
 
 .icon-container {
-  border-radius: 4px;
+   border-radius: 4px;
   background-color: var(--buttons-bkcolor);
   width: 264px;
   height: 112px;
@@ -264,7 +264,7 @@ img  {
   align-items: center;
   justify-content: center;
   margin-bottom: 8px;
-}
+} 
 
 
 
@@ -424,6 +424,8 @@ img  {
     margin: 0;
   }
 
+
+
   /* customers section */
 
   .customer-section-header {
@@ -558,6 +560,7 @@ img  {
   align-items: center;
   justify-content: center;
 }
+
 .social-media-link:hover,
 .social-media-link:focus {
   background-color: var(--brand-color);
