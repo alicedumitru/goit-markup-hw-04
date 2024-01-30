@@ -176,6 +176,7 @@ img  {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    max-width: 1440px;
 }
 
 .hero-image-header {
@@ -434,6 +435,7 @@ img  {
     letter-spacing: 0.72px;
     text-transform: capitalize;
     margin-bottom: 72px;
+    
   }
   .customers {
     padding: 120px 0;
@@ -462,6 +464,7 @@ img  {
     align-items: center;
     justify-content: center;
     color: var(--light-slate);
+    width: calc((100%-120px) / 6); 
   }
   .customer-list-link:hover {
     color:  var(--brand-color);
@@ -493,6 +496,7 @@ img  {
   letter-spacing: 0.32px;
   max-width: 264px;
   margin: 0; 
+  margin-bottom: 16px;
   }
 
 .footer-container {
