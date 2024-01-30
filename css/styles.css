@@ -465,6 +465,7 @@ img  {
     justify-content: center;
     color: var(--light-slate);
     width: calc((100%-120px) / 6); 
+    
   }
   .customer-list-link:hover {
     color:  var(--brand-color);
@@ -495,7 +496,6 @@ img  {
   line-height: 150%; 
   letter-spacing: 0.32px;
   max-width: 264px;
-  margin: 0; 
   margin-bottom: 16px;
   }
 
